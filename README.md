@@ -52,8 +52,6 @@ JamStack_PhanTuSinh/
 
 [
 2033210039_Nguyễn Hải Đăng
-2033210275_Phạm Hữu Thắng
-2033200016_Lương Tuyền Phong
 ]
 
 ## License
